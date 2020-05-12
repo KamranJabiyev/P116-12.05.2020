@@ -1,0 +1,6 @@
+E:\P116\ArrayString\ArrayString\bin\Debug\ArrayString.exe.config
+E:\P116\ArrayString\ArrayString\bin\Debug\ArrayString.exe
+E:\P116\ArrayString\ArrayString\bin\Debug\ArrayString.pdb
+E:\P116\ArrayString\ArrayString\obj\Debug\ArrayString.csprojAssemblyReference.cache
+E:\P116\ArrayString\ArrayString\obj\Debug\ArrayString.exe
+E:\P116\ArrayString\ArrayString\obj\Debug\ArrayString.pdb
